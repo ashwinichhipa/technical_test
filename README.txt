@@ -1,5 +1,5 @@
 
-Script : processJSON.python
+Script : processJSON.py
 Input JSON File : MedlineCitationSet.json
 
 Execute :
