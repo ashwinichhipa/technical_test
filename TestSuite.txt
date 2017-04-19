@@ -1,0 +1,15 @@
+Test Suite :
+
+1. Unit Testing :
+	-Input file is present or not
+	-Verification of input JSON format
+	-Verification of output for smaller input v/s manual
+
+2. System Testing :
+	-How and where to use/pass the Output, if this script is considered as backend api
+    -Output for Dynamic input file : A file which gets updated continuosly
+
+3. Performance Testing :
+	-Single client performance
+	-Multi client performance
+	-Size of Input file v/s processing time
